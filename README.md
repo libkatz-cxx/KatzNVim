@@ -5,9 +5,9 @@
 | [configuration](#configuration) |
 
 ## Screenshots
-![Startup Screen](https://raw.github.com/libkatz-cxx/KatzVim/main/screenshots/startup_screen.png)
-![Code SS](https://raw.github.com/libkatz-cxx/KatzVim/main/screenshots/code.png)
-![Error SS](https://raw.github.com/libkatz-cxx/KatzVim/main/screenshots/lsp.png)
+![Startup Screen](https://raw.github.com/libkatz-cxx/KatzNVim/main/screenshots/startup_screen.png)
+![Code SS](https://raw.github.com/libkatz-cxx/KatzNVim/main/screenshots/code.png)
+![Error SS](https://raw.github.com/libkatz-cxx/KatzNVim/main/screenshots/lsp.png)
 
 ## Installation
 #### clone repository:
@@ -57,7 +57,7 @@ fedora linux:
 > :CocInstall coc-pairs   
 
 #### config structure:
-![Error SS](https://raw.github.com/libkatz-cxx/KatzVim/main/screenshots/tree.png)
+![Error SS](https://raw.github.com/libkatz-cxx/KatzNVim/main/screenshots/tree.png)
         
 all keymaps should be in keys/keymaps   
 all settings should be in settings/settings   
