@@ -37,7 +37,6 @@ fedora linux:
 #### [ appearence ]:   
 * ['startup-nvim/startup.nvim'](https://github.com/startup-nvim/startup.nvim)   
 * ['olivercederborg/poimandres.nvim'](https://github.com/olivercederborg/poimandres.nvim)   
-* ['onsails/lspkind-nvim'](https://github.com/onsails/lspkind-nvim)   
 * ['nvim-tree/nvim-web-devicons'](https://github.com/nvim-tree/nvim-web-devicons)   
 
 #### [ ui ]:   
