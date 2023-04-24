@@ -23,10 +23,10 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 #### install nodejs for [coc.nvim](https://github.com/neoclide/coc.nvim) and nerdfonts for ui:   
 debian-based:   
-> apt install nodejs nerdfonts
+``` apt install nodejs nerdfonts ```
 
 fedora linux:   
-> dnf install nodejs nerdfonts   
+``` dnf install nodejs nerdfonts ``` 
 
 #### run the ":PackerSync" in NeoVim(after that restart it):    
 ``` nvim -c ":PackerSync" ```
@@ -58,7 +58,7 @@ fedora linux:
 
 ## Configuration   
 #### I recomended to install coc-pairs for auto close pairs   
-> :CocInstall coc-pairs   
+``` :CocInstall coc-pairs ```   
 
 #### config structure:
 ![Error SS](https://raw.github.com/libkatz-cxx/KatzNVim/main/screenshots/tree.png)
