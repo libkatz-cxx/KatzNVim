@@ -14,8 +14,10 @@
 > git clone https://github.com/libkatz-cxx/KatzVim/ ~/.config/nvim/
 
 #### install [packer](https://github.com/wbthomason/packer.nvim) (plugin manager):
-> git clone --depth 1 https://github.com/wbthomason/packer.nvim\   
-> ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\   
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
 
 #### install nodejs for [coc.nvim](https://github.com/neoclide/coc.nvim) and nerdfonts for ui:   
 debian-based:   
@@ -25,7 +27,7 @@ fedora linux:
 > dnf install nodejs nerdfonts   
 
 #### run the ":PackerSync" in NeoVim(after that restart it):    
-> nvim -c ":PackerSync"
+``` nvim -c ":PackerSync" ```
 
 ## List plugins   
 **total plugins - 12 (13 with nvim-dap)**  
