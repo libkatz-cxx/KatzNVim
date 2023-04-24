@@ -31,9 +31,6 @@ return require('packer').startup(function()
   			end
 		})
 
-		-- icons
-		use 'onsails/lspkind-nvim'
-
 		-- file explorer
 		use {
 				'nvim-tree/nvim-tree.lua',
