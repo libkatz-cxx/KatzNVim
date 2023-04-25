@@ -12,7 +12,7 @@
 ## Installation
 #### clone repository:
 ```
-git clone https://github.com/libkatz-cxx/KatzVim/ ~/.config/nvim/
+git clone https://github.com/libkatz-cxx/KatzNVim/ ~/.config/nvim/
 ```
 
 #### install [packer](https://github.com/wbthomason/packer.nvim) (plugin manager):
