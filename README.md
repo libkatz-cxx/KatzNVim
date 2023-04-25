@@ -1,6 +1,6 @@
 # KatzVim
 | [sceenshots](#screenshots)      |
-| [installation](#installation)   |
+| [installation](#installation)   |    
 | [list plugins](#list-plugins)   |
 | [configuration](#configuration) |
 
