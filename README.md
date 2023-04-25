@@ -32,7 +32,7 @@ fedora linux:
 ``` nvim -c ":PackerSync" ```
 
 ## List plugins   
-**total plugins - 12 (13 with nvim-dap)**  
+**total plugins - 11 (12 with nvim-dap)**  
 
 #### [ appearence ]:   
 * ['startup-nvim/startup.nvim'](https://github.com/startup-nvim/startup.nvim)   
